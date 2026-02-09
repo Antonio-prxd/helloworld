@@ -1,0 +1,18 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: #FFFFFF
+}
+
+p{
+font-size: 20px;
+text-align: left;
+font-family: Helvetica, sans-serif;
+}
+body {
+    background-image: url("487430591_1337287581163906_1901950874610779651_n.jpg");
+    background-size: cover;      /* couvre tout l’écran */
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+}
